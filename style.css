@@ -33,3 +33,12 @@ h6{
   max-width: 1050px;
   margin: 0 auto;
 }
+.button{
+  background-color: #FF7400;
+  color: white;
+  font-size: 14px;
+}
+.button-orange{
+  background-color: #D67E34;
+
+}
