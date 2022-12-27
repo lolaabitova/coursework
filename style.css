@@ -200,3 +200,10 @@ nav{
   font-size: 18px;
   color: white;
 }
+.orange{
+  color: #BC9060;
+}
+.card-header{
+  display: flex;
+  justify-content: space-evenly;
+}
