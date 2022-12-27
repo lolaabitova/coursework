@@ -37,7 +37,7 @@ h6{
   background-color: #FF7400;
   color: white;
   font-size: 14px;
-  height: 26px;
+  height: 20px;
   border: #FF7400;
 }
 .button-orange{
@@ -45,6 +45,7 @@ h6{
   color: white;
   border: #D67E34;
   height: 20px;
+  width: 120px;
 
 }
 .nav{
@@ -62,9 +63,40 @@ h6{
 }
 .header{
   background-image: url(nav-image.png);
-  width: 1440px;
-  height: 800PX;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  
 }
-.korzina{
-  width: 20px;
+.container{
+  padding-top: 30px;
+  max-width: 1100px; 
+  margin: 0 auto;
+  
+}
+nav{
+
+  display: flex;
+  justify-content: space-between;
+}
+.contacts{
+  border-left: 1px solid white;
+  font-size: 18px;
+}
+.connaction{
+
+}
+.logotip{
+  width: 100px;
+  height: 69px;
+  margin-right: auto;
+}
+.font-20px{
+  font-size: 18px;
+  color: white;
+
+}
+.font-14px{
+  font-size: 14px;
+  color: white;
 }
