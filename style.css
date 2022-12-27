@@ -37,9 +37,14 @@ h6{
   background-color: #FF7400;
   color: white;
   font-size: 14px;
+  height: 26px;
+  border: #FF7400;
 }
 .button-orange{
   background-color: #D67E34;
+  color: white;
+  border: #D67E34;
+  height: 20px;
 
 }
 .nav{
