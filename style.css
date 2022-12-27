@@ -42,3 +42,24 @@ h6{
   background-color: #D67E34;
 
 }
+.nav{
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.nav .nav-item .nav-link{
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+}
+.header{
+  background-image: url(nav-image.png);
+  width: 1440px;
+  height: 800PX;
+}
+.korzina{
+  width: 20px;
+}
