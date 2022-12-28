@@ -4,7 +4,7 @@
 body{
   margin: 0;
   font-family: 'Open sans', sans-serif;
-  color: #eae2e2;
+  color: #656363;
   background-color: #E5E5E5;
 }
 [class^="col"]{
@@ -232,8 +232,6 @@ nav{
 
 .card-content .card-header span:last-child{
   color: #BC9060;
-  
-  
 }
 .card-header{
  font-size: 26px;
@@ -241,3 +239,4 @@ nav{
  color: #2C2C2C;
  
 }
+
