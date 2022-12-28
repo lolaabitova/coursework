@@ -242,5 +242,9 @@ nav{
 .main-history-img{
   width: 539px;
 }
-
+.main-history p{
+  text-align: center;
+  max-height: 400px;
+  
+}
 
