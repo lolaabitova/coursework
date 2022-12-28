@@ -139,8 +139,8 @@ h6{
   background-color: #FF7400;
   color: white;
   font-size: 14px;
-  height: 20px;
-  border: #FF7400;
+  padding: 14px 18px;
+  border: 0;
 }
 .button-orange{
   background-color: #D67E34;
@@ -186,9 +186,27 @@ nav{
   justify-content: space-between;
 }
 .contacts{
-  border-left: 1px solid white;
+  border-left: 2px solid white;
   font-size: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px 20px;
+  display: flex;
+  margin-right: 10px;
+  display: inline-block;
+  
+  
 }
+.connaction{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+.basket{
+  margin: 0 20px;
+}
+
 
 .logotip{
   width: 100px;
