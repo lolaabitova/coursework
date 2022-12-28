@@ -4,7 +4,8 @@
 body{
   margin: 0;
   font-family: 'Open sans', sans-serif;
-  color: #656363;
+  color: #eae2e2;
+  background-color: #E5E5E5;
 }
 [class^="col"]{
   padding: 0 10px;
@@ -82,7 +83,7 @@ body{
 
 
 .card{
-  box-shadow: 5px 5px 5px rgb(146, 146, 149);
+  
   background-color: white;
   margin-bottom: 15px;
   margin-top: -109px;
