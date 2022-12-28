@@ -247,6 +247,11 @@ nav{
   max-height: 400px;
   
 }
+.business-lunch{
+  background-image: url(bg.png);
+  width: 100%;
+  background-size: cover;
 
+}
 
 
