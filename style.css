@@ -7,6 +7,10 @@ body{
   color: #656363;
   background-color: #E5E5E5;
 }
+.container{
+  max-width: 1090px; 
+  margin: 0 auto;
+}
 [class^="col"]{
   padding: 0 10px;
 }
@@ -15,6 +19,7 @@ body{
   display: flex;
   flex-wrap: wrap;
   justify-content:center;
+  align-items: center;
   
 }
 .col-12 {
@@ -79,6 +84,9 @@ body{
   flex-grow: 0;
   flex-shrink: 0;
 }
+.orange{
+  color: #D67E34;
+}
 
 
 
@@ -86,14 +94,12 @@ body{
   
   background-color: white;
   margin-bottom: 15px;
- 
   padding-bottom: 30px;
   margin-left: 21px;
-  
-  
 }
 .card-1 .card{
    margin-top: -109px;
+   height: 349px;
 }
 .card .card-image{
   width: 100%;
@@ -134,10 +140,8 @@ h5{
 h6{
   font-size: 20px;
 }
-.container{
-  max-width: 1050px;
-  margin: 0 auto;
-}
+
+
 .button{
   background-color: #FF7400;
   color: white;
@@ -171,33 +175,20 @@ h6{
   background-image: url(nav-image.png);
   width: 100%;
   height: 150vh;
-  
   background-size: cover;
-  
-  
-  
 }
-.container{
-  padding-top: 80px;
-  max-width: 1100px; 
-  margin: 0 auto;
-  
-  
-}
+
 .nav-header{
   text-align: center;
   color: #FF7400;
   line-height: 35px;
   font-weight: 400;
-  margin-top: 20px;
+  margin-top: 220px;
   margin-left: -120px;
-
 }
 
 nav{
-
-  display: flex;
-  justify-content: space-between;
+  margin-top: 60px;
 }
 .contacts{
   border-left: 2px solid white;
@@ -225,7 +216,7 @@ nav{
 .logotip{
   width: 100px;
   height: 69px;
-  margin-right: auto;
+  margin-right: 165px;
 }
 .font-20px{
   font-size: 18px;
@@ -241,7 +232,18 @@ nav{
   color: white;
 }
 .orange{
-  color: #BC9060;
+  color: #D67E34;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+}
+.black{
+  color: black;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
 }
 
 .card-content .card-header span:last-child{
