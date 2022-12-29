@@ -86,11 +86,14 @@ body{
   
   background-color: white;
   margin-bottom: 15px;
-  margin-top: -109px;
+ 
   padding-bottom: 30px;
   margin-left: 21px;
   
   
+}
+.card-1 .card{
+   margin-top: -109px;
 }
 .card .card-image{
   width: 100%;
@@ -175,11 +178,22 @@ h6{
   
 }
 .container{
-  padding-top: 30px;
+  padding-top: 80px;
   max-width: 1100px; 
   margin: 0 auto;
   
+  
 }
+.nav-header{
+  text-align: center;
+  color: #FF7400;
+  line-height: 35px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-left: -120px;
+
+}
+
 nav{
 
   display: flex;
