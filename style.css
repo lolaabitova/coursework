@@ -91,7 +91,7 @@ body{
 
 
 .card{
-  
+  box-shadow: 3px 3px 25px gray;
   background-color: white;
   margin-bottom: 15px;
   padding-bottom: 30px;
@@ -275,12 +275,7 @@ nav a{
 .history{
   padding-top: 151px;
 }
-.card-hamburger img{
-  width: 60%;
-  border: 1px solid white;
-  
-  align-items: center;
-}
+
 .card-hamburger{
   text-align: center;
   background-color: white;
