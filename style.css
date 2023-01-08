@@ -356,3 +356,13 @@ margin-bottom: 139px;
 .mini-img{
   margin-left: 20px;
  }
+ .hamburger-text{
+  font-family: 'Tinos';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 26px;
+ line-height: 30px;
+ color: black;
+ margin-left: 20px;
+}
+
