@@ -277,8 +277,10 @@ nav a{
   background-image: url(bg.png);
   width: 100%;
   background-size: cover;
-
+  
+  
 }
+
 .history{
   padding-top: 151px;
 }
@@ -307,6 +309,14 @@ nav a{
   max-width: 350px;
   padding-bottom: 30px;
   margin-left: 21px;
+}
+.lunch-text{
+  font-size: 50px;
+  color: #BC9060;
+}
+
+.lunch-price{
+  font-size: 24px;
 }
 
 
