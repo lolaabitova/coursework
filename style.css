@@ -369,4 +369,18 @@ margin-bottom: 139px;
   margin-left: 11px;
   margin-bottom: 10px;
 }
+.gallery-title{
+
+font-family: 'Tinos';
+font-style: normal;
+font-weight: 400;
+font-size: 54px;
+line-height: 62px;
+color: black;
+text-align: center;
+margin-bottom: 60px;
+}
+.gallery-title span{
+  color: #D67E34;
+}
 
