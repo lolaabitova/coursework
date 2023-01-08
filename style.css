@@ -286,14 +286,18 @@ nav a{
   display: flex;
   width: 444px;
   justify-content: center;
+  margin-top: 39px;
 }
 .number{
   margin-right: 60px;
   text-align: center;
   font-size: 40px;
+  color: #BC9060;
 }
 .number span{
   display: block;
+  color: black;
+  font-size: 20px;
 }
 .card-hamburger{
   text-align: center;
