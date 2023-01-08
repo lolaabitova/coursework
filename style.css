@@ -347,3 +347,9 @@ margin-bottom: 139px;
   display: flex;
  
 }
+.hamburger-mini-item{
+  display: flex;
+  align-items: center;
+  margin-bottom: 26px;
+
+}
