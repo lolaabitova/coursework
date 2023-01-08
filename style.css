@@ -365,5 +365,8 @@ margin-bottom: 139px;
  color: black;
  margin-left: 20px;
 }
-
+.gallery img{
+  margin-left: 11px;
+  margin-bottom: 10px;
+}
 
