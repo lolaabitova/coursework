@@ -342,7 +342,8 @@ margin-bottom: 139px;
   margin-top: 132px;
   justify-content: center;
   display: flex;
-  
-
-
+}
+.burgers{
+  display: flex;
+ 
 }
