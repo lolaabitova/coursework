@@ -262,9 +262,11 @@ nav a{
   width: 539px;
 }
 .main-history p{
-  text-align: center;
-  max-height: 400px;
   
+  max-height: 400px;
+}
+.main-history{
+  text-align: center;
 }
 .business-lunch{
   background-image: url(bg.png);
