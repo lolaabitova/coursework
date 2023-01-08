@@ -282,7 +282,19 @@ nav a{
 .history{
   padding-top: 151px;
 }
-
+.history-number{
+  display: flex;
+  width: 444px;
+  justify-content: center;
+}
+.number{
+  margin-right: 60px;
+  text-align: center;
+  font-size: 40px;
+}
+.number span{
+  display: block;
+}
 .card-hamburger{
   text-align: center;
   background-color: white;
