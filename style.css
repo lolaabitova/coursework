@@ -265,6 +265,10 @@ nav a{
   
   max-height: 400px;
 }
+.history-text{
+  width: 444px;
+  text-align: center;
+}
 .main-history{
   text-align: center;
 }
