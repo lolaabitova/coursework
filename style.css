@@ -474,4 +474,9 @@ nav a {
   margin-left: 2px;
   
 }
-
+.img-chef{
+  
+  display: flex;
+  justify-content: space-around;
+  
+}
