@@ -340,6 +340,11 @@ nav a{
 }
 .hamburger-price{
  position: relative;
+ font-family: 'Cookie';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 33px;
 
 }
 .lunch-text{
