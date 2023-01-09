@@ -5,7 +5,7 @@ body{
   margin: 0;
   font-family: 'Open sans', sans-serif;
   color: #656363;
-  background-color: #E5E5E5;
+  
 }
 .container{
   max-width: 1090px; 
@@ -439,5 +439,15 @@ line-height: 62px;
 }
 .coment{
   background-color: #E5E5E5;
+}
+.coment-text{
+  font-family: 'Open Sans';
+ font-style: italic;
+ font-weight: 400;
+ font-size: 20px;
+ line-height: 27px;
+ text-align: center;
+ 
+ color: #000000;
 }
 
