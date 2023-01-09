@@ -448,3 +448,11 @@ nav a {
   text-align: center;
   color: #000000;
 }
+.grey-ellipse{
+  text-align: center;
+  padding-bottom: 107px;
+  
+}
+.grey-ellipse img{
+  padding-left: 3px;
+}
