@@ -157,8 +157,9 @@ h6{
   background-color: #D67E34;
   color: white;
   border: #D67E34;
-  height: 20px;
-  width: 120px;
+  
+  padding: 14px 67px;
+
 
 }
 .nav{
@@ -311,9 +312,12 @@ nav a{
   background-color: white;
   margin-bottom: 15px;
   padding-top: 80px;
-  max-width: 350px;
+  
   padding-bottom: 30px;
   margin-left: 21px;
+}
+.card-hamburger img{
+  width: 60%;
 }
 .hamburger-content{
   color: black;
