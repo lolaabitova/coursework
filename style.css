@@ -312,17 +312,24 @@ nav a{
 .card-hamburger{
   text-align: center;
   background-color: white;
-  margin-bottom: 15px;
-  padding-top: 80px;
-  
+  margin-bottom: 10px;
+  padding-top: 70px;
+  height: 510px;
   padding-bottom: 30px;
   margin-left: 21px;
 }
-.card-hamburger img{
-  width: 60%;
+
+
+.hamburger-img{
+  position: relative;
+  max-width: 65%;
+  
 }
 .hamburger-content{
   color: black;
+}
+.hamburger-price{
+
 }
 .lunch-text{
   font-size: 50px;
@@ -409,3 +416,4 @@ line-height: 62px;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
