@@ -470,4 +470,14 @@ color: #000000;
 text-align: center;
 padding-top: 17px;
 }
+.user-name{
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+color: #000000;
+}
 
