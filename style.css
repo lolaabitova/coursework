@@ -408,6 +408,9 @@ nav a {
 }
 .coment {
   background-color: #e5e5e5;
+  text-align: center;
+  
+  
 }
 .coment-text {
   font-family: "Open Sans";
@@ -416,10 +419,13 @@ nav a {
   font-size: 20px;
   line-height: 27px;
   text-align: center;
-  padding-left: 170px;
-  padding-right: 170px;
+  padding-left: 168px;
+  
+
+  
   padding-top: 104px;
   color: #000000;
+  
 }
 .coment-user {
   text-align: center;
@@ -438,6 +444,7 @@ nav a {
   color: #000000;
   text-align: center;
   padding-top: 17px;
+
 }
 .user-name {
   font-family: "Open Sans";
@@ -451,8 +458,18 @@ nav a {
 .grey-ellipse{
   text-align: center;
   padding-bottom: 107px;
+  padding-top: 26px;
   
 }
 .grey-ellipse img{
   padding-left: 3px;
+}
+.ellipse-orange{
+  border-radius: 50%;
+  width: 6px;
+  height: 6px;
+  box-sizing: border-box;
+  border: 1px solid #FF7400;
+  margin-left: 2px;
+  
 }
