@@ -474,6 +474,20 @@ nav a {
   margin-left: 2px;
   
 }
+.chefs-title{
+  font-family: 'Tinos';
+font-style: normal;
+font-weight: 400;
+font-size: 54px;
+line-height: 62px;
+
+
+
+color: #000000;
+}
+.chefs-title span{
+  color: #D67E34;
+}
 .img-chef{
   
   display: flex;
