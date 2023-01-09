@@ -319,7 +319,10 @@ nav a{
   margin-left: 21px;
 }
 
-
+.ellipse{
+  position: absolute;
+  max-width: 100px;
+}
 .hamburger-img{
   position: relative;
   max-width: 65%;
