@@ -454,6 +454,9 @@ line-height: 62px;
 }
 .coment-user{
   text-align: center;
-  padding-top: 10px;
+  padding-top: 20px;
+}
+.user-img{
+  border-radius: 50%;
 }
 
