@@ -707,4 +707,24 @@ nav a {
 
 }
 @media screen and (min-width: 700px) and (max-width: 850px) {
+  .container {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .connaction,
+  .nav-item,
+  .nav-button{
+    display: none;
+  }
+  .burger-img{
+    display: flex;
+    padding-left: 300px;
+    
+  }
+  .header {
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+    
+  }
 }
