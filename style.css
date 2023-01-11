@@ -295,7 +295,7 @@ nav a {
 .card-hamburger {
   text-align: center;
   background-color: white;
-
+  
   padding-top: 80px;
   height: 570px;
   max-width: 350px;
@@ -331,6 +331,17 @@ nav a {
 }
 .hamburger-4 {
   display: none;
+}
+.rec-button{
+  margin-top: -565px;
+  margin-right:205px;
+  
+  
+}
+.recommended{
+  background-color: #D67E34;
+  border: #D67E34;
+  padding: 8px 10px;
 }
 .lunch-text {
   font-size: 50px;
@@ -556,6 +567,12 @@ nav a {
   .hamburger-3 {
     display: none;
   }
+  .rec-button{
+    margin-top: -558px;
+    margin-right:205px;
+    
+    
+  }
   .card-hamburger {
     margin-bottom: 20px;
     margin-left: 110px;
@@ -668,6 +685,12 @@ nav a {
     }
   .hamburger-3 {
       display: none;
+    }
+    .rec-button{
+      margin-top: -558px;
+      margin-right:205px;
+      
+      
     }
   .card-hamburger {
       margin: auto;
@@ -808,6 +831,12 @@ nav a {
      margin-bottom: 20px;
     width: 400px;
 
+  }
+  .rec-button{
+    margin-top: -574px;
+    margin-right:223px;
+    
+    
   }
  
   .menu-dishes {
