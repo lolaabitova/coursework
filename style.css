@@ -553,6 +553,15 @@ nav a {
   .history-number{
     padding-bottom: 20px;
   }
+  .hamburger-3 {
+    display: none;
+  }
+  .card-hamburger {
+    
+    margin-bottom: 20px;
+    margin-left: 110px;
+    width: 320px;
+  }
 
   
 }
