@@ -838,6 +838,10 @@ nav a {
     
     
   }
+  .hamburger-price{
+    left: 100px;
+  top: -97px;
+  }
  
   .menu-dishes {
     padding-top: 20px;
