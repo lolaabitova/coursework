@@ -802,5 +802,36 @@ nav a {
   .hamburger-1 {
     display: none;
   }
+  .hamburger-4{
+    display: block;
+    margin: 0 auto;
+     margin-bottom: 20px;
+    width: 400px;
 
+  }
+ 
+  .menu-dishes {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .coment-text {
+    width: 600px;
+  }
+  
+  .gallery img {
+    width: 400px;
+    height: 300px;
+    
+  }
+  .gallery .coffe-2 {
+    display: none;
+  }
+  .img-chef {
+    display: block;
+    width: 300px;
+    margin: auto;
+  }
+  .footer-img {
+    width: 100%;
+  }
 }
