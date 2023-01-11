@@ -16,6 +16,9 @@ body {
 .burger-img{
   display: none;
 }
+.nav-header-2{
+  display: none;
+}
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -326,6 +329,9 @@ nav a {
   left: 90px;
   top: -85px;
 }
+.hamburger-4{
+  display: none;
+}
 .lunch-text {
   font-size: 50px;
   color: #bc9060;
@@ -587,9 +593,9 @@ nav a {
     display: none;
   }
   .card-hamburger {
-    margin: auto;
+    
     margin-bottom: 20px;
-    margin-left: 20px;
+    margin-left: 110px;
     width: 320px;
   }
   .menu-dishes {
@@ -716,11 +722,14 @@ nav a {
   }
   .gallery .row {
     display: block;
+    
   }
   .gallery img {
     width: 400px;
     height: 300px;
-    margin-left: 300px;
+    margin-left: 270px;
+    
+    
   }
   .gallery .coffe-2 {
     display: none;
@@ -737,7 +746,7 @@ nav a {
 
 
 
-@media screen and (min-width: 550px) and (max-width: 850px) {
+@media screen and (min-width: 700px) and (max-width: 850px) {
   .container {
     width: 100%;
     margin: 0 auto;
@@ -754,7 +763,7 @@ nav a {
   }
   .header {
     width: 100%;
-    height: 50vh;
+    height: 90vh;
     object-fit: cover;
     
   }
@@ -763,6 +772,145 @@ nav a {
   .nav-header h1 {
     font-size: 46px;
     margin: auto;
+  }
+  .nav-header .font-18px {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+  }
+  .imgheader {
+    display: none;
+  }
+  .card-1 .row {
+    display: block;
+    width: 400px;
+    
+    
+
+    margin: 0px auto;
+  }
+  .card-1 .card {
+    margin-top: -40px;
+    margin-bottom:70px ;
+  }
+  .business-lunch {
+    width: auto;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 25px;
+
+  }
+  .business-lunch .row {
+    display: block;
+    
+    
+  }
+  .lunch-button{
+    padding-bottom: 15px;
+    
+  }
+  .button{
+    padding: 20px 25px;
+    font-size: 14px;
+  }
+  .business-lunch .lunch-price{
+    font-size: 32px;
+    
+  }
+  .main-history{
+    margin-top: -100px;
+  }
+  .history-text{
+    padding-bottom: 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    }
+  .history-number{
+    padding-bottom: 20px;
+  }
+  .burgers {
+    display: block;
+    width: 700px;
+    margin: auto;
+  }
+  .pizza-img {
+    margin-left: 100px;
+  }
+  .menu-mini {
+    margin-top: 20px;
+  }
+  .hamburger-3,
+  .hamburger-2,
+  .hamburger-1 {
+    display: none;
+  }
+  
+  .hamburger-4{
+    display: block;
+    margin: 0 auto;
+     margin-bottom: 20px;
+    width: 400px;
+
+  }
+ 
+  .menu-dishes {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .coment-text {
+    width: 600px;
+  }
+  
+  .gallery img {
+    width: 400px;
+    height: 300px;
+    
+  }
+  .gallery .coffe-2 {
+    display: none;
+  }
+  .img-chef {
+    display: block;
+    width: 300px;
+    margin: auto;
+  }
+  .footer-img {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 550px) and (max-width: 700px) {
+  .container {
+    width: auto;
+    margin: 0 auto;
+  }
+  .connaction,
+  .nav-item,
+  .nav-button{
+    display: none;
+  }
+  .burger-img{
+    display: flex;
+    margin-left: 200px;
+    
+    
+  }
+  .header {
+    width: auto;
+    height: 90vh;
+    
+    object-fit: cover;
+    
+  }
+  .nav-header{
+    margin: 0 auto;
+    
+  }
+ 
+  
+  .nav-header h1 {
+    font-size: 30px;
+    
   }
   .nav-header .font-18px {
     padding-top: 20px;
@@ -799,66 +947,250 @@ nav a {
     padding-bottom: 15px;
   }
   .business-lunch .lunch-price{
-    font-size: 32px;
+    font-size: 18px;
     
   }
-  .history-text{
+  .lunch-text h3{
+    font-size: 36px;
+    padding-top: 20px;
+  }
+  .history-text {
     padding-bottom: 20px;
     padding-top: 20px;
+   
+    
     
 
   }
   .history-number{
     padding-bottom: 20px;
+    display: block;
+    margin: 0 auto;
+  }
+  .menu{
+    width: auto;
+    margin: 0 auto;
   }
   .burgers {
     display: block;
-    width: 700px;
-    margin: auto;
+    width: auto;
+    margin: 0 auto;
   }
   .pizza-img {
     margin-left: 100px;
   }
   .menu-mini {
-    margin-top: 20px;
+    margin: 10px 80px;
   }
   .hamburger-3,
-  .hamburger-2 {
+  .hamburger-2,
+  .hamburger-1 {
     display: none;
   }
-  .card-hamburger {
-    margin-right: 200px;
-    margin-bottom: 20px;
-    align-items: center;
-    
-    width: 320px;
+  .hamburger-4{
+    display: block;
+    margin: 0 auto;
+     margin-bottom: 20px;
+    width: 400px;
+
   }
- 
   .menu-dishes {
     padding-top: 20px;
     padding-bottom: 20px;
   }
-  .coment-text {
-    width: 800px;
+  
+  .coment-text{
+   font-size: 16px;
+   align-items: center;
+   padding: 60px;
+   margin: 0;
+   
   }
-  .gallery .row {
-    display: block;
-  }
+  
   .gallery img {
+    display: block;
     width: 400px;
     height: 300px;
-    margin-left: 300px;
+    
   }
+  
   .gallery .coffe-2 {
     display: none;
   }
-  .img-chef {
+  .chefs .img-chef{
     display: block;
-    width: 300px;
-    margin: auto;
+    width: auto;
+    padding: 0 130px;
+    
   }
   .footer-img {
-    width: 100%;
+    width: auto;
+  }
+  .ch{
+    display: none;
+  }
+}
+
+
+
+
+@media screen and (min-width: 350px) and (max-width: 550px) {
+  .container {
+    width: auto;
+    margin: auto;
+  }
+  .connaction,
+  .nav-item,
+  .nav-button{
+    display: none;
+  }
+  .burger-img{
+    display: flex;
+    
+    
+    
+  }
+  .header {
+    width: auto;
+    height: 70vh;
+    
+    
+  }
+  .nav-header{
+    display: none;
+    
+  }
+  .nav-header-2{
+    display: block;
+    text-align: center;
+  }
+  
+  .nav-header-2 h3 {
+    font-size: 30px;
+    color: #ff7400;
+    
+  }
+  .nav-header-2 h1{
+    font-size: 40px;
+    color: #ff7400;
+  }
+  .nav-header-2 .font-18px {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+  }
+  .imgheader {
+    display: none;
+  }
+  .card-1 .row {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    
+  }
+  .card-1 .card {
+    margin-top: -40px;
+    margin-bottom:50px ;
+  }
+  .business-lunch {
+    width: auto;
+    text-align: center;
+    font-size: 26px;
+
+  }
+  .business-lunch .row {
+    display: block;
+    
+    
+  }
+  .lunch-button{
+    padding-bottom: 15px;
+  }
+  .business-lunch .lunch-price{
+    font-size: 18px;
+    
+  }
+  .lunch-text h3{
+    font-size: 36px;
+    padding-top: 20px;
+  }
+  .history-text {
+    padding-bottom: 20px;
+    padding-top: 20px;
+   
+    
+    
+
+  }
+  .main-history-img{
+    width: auto;
+  }
+  .history-number{
+    padding-bottom: 20px;
+    display: block;
+    margin: 0 auto;
+  }
+  .menu{
+    width: auto;
+    margin: 0 auto;
+  }
+  .burgers {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+  }
+  .pizza-img {
+    margin-left: 100px;
+  }
+  .menu-mini {
+    margin: 10px 80px;
+  }
+  .hamburger-3,
+  .hamburger-2,
+  .hamburger-1 {
+    display: none;
+  }
+  .hamburger-4{
+    display: block;
+    margin: 0 auto;
+     margin-bottom: 20px;
+    width: 400px;
+
+  }
+  .menu-dishes {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .coment-text{
+   font-size: 16px;
+   align-items: center;
+   padding: 60px;
+   margin: 0;
+   
+  }
+  
+  .gallery img {
+    display: block;
+    width: 300px;
+    
+  }
+  
+  .gallery .coffe-2 {
+    display: none;
+  }
+  .chefs .img-chef{
+    display: block;
+    width: auto;
+    padding: 0 30px;
+    
+  }
+  .footer-img {
+    width: auto;
+    object-fit: contain;
+  }
+  .ch{
+    display: none;
   }
 }
 
