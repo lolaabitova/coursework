@@ -1013,5 +1013,11 @@ nav a {
     padding: 0 130px;
     
   }
+  .footer-img {
+    width: auto;
+  }
+  .ch{
+    display: none;
+  }
 
 }
