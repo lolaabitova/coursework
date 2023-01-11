@@ -520,5 +520,14 @@ nav a {
   .imgheader {
     display: none;
   }
+  .card-1 .row {
+    display: block;
+    width: 350px;
+
+    margin: 0px auto;
+  }
+  .card-1 .card {
+    margin-top: 40px;
+  }
   
 }
