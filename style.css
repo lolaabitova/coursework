@@ -581,5 +581,13 @@ nav a {
     display: none;
   }
 
-  
+  .img-chef {
+    display: block;
+    width: 300px;
+    margin: auto;
+  }
+  .footer-img {
+    width: 100%;
+  }
 }
+
