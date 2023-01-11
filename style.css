@@ -644,64 +644,67 @@ nav a {
     }
   
     
-    .business-lunch .lunch-price{
+  .business-lunch .lunch-price{
       font-size: 32px;
       
     }
-    .history-text{
+  .history-text{
       padding-bottom: 20px;
       padding-top: 20px;
     }
-    .history-number{
+  .history-number{
       padding-bottom: 20px;
     }
-    .burgers {
+  .burgers {
       display: block;
       width: 700px;
       margin: auto;
     }
-    .pizza-img {
+  .pizza-img {
       margin-left: 100px;
     }
-    .menu-mini {
+  .menu-mini {
       margin-top: 20px;
     }
-    .hamburger-3 {
+  .hamburger-3 {
       display: none;
     }
-    .card-hamburger {
+  .card-hamburger {
       margin: auto;
       margin-bottom: 20px;
       margin-left: 20px;
       width: 320px;
     }
-    .menu-dishes {
+  .menu-dishes {
       padding-top: 20px;
       padding-bottom: 20px;
     }
-    .coment-text {
+  .coment-text {
       width: 800px;
     }
-    .gallery .row {
+  .gallery .row {
       display: block;
       
     }
-    .gallery img {
+  .gallery img {
       width: 400px;
       height: 300px;
       margin-left: 270px;
       
       
     }
-    .gallery .coffe-2 {
+  .gallery .coffe-2 {
       display: none;
     }
-    .img-chef {
+  .img-chef {
       display: block;
       width: 300px;
       margin: auto;
     }
-    .footer-img {
+  .footer-img {
       width: 100%;
+    }
 
+}
+@media screen and (min-width: 700px) and (max-width: 850px) {
 }
