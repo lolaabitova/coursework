@@ -834,9 +834,7 @@ nav a {
   }
   .rec-button{
     margin-top: -574px;
-    margin-right:223px;
-    
-    
+    margin-right:223px;  
   }
   .hamburger-price{
     left: 100px;
@@ -983,6 +981,10 @@ nav a {
      margin-bottom: 20px;
     width: 400px;
 
+  }
+  .rec-button{
+    margin-top: -574px;
+    margin-right:223px;  
   }
   .menu-dishes {
     padding-top: 20px;
@@ -1143,6 +1145,10 @@ nav a {
      margin-bottom: 20px;
     width: 400px;
 
+  }
+  .rec-button{
+    margin-top: -574px;
+    margin-right:223px;  
   }
   .menu-dishes {
     padding-top: 20px;
