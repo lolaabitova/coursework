@@ -1021,4 +1021,162 @@ nav a {
   }
 
 }
-@media screen and (min-width: 350px) and (max-width: 550px) {}
+@media screen and (min-width: 350px) and (max-width: 550px) {
+  .container {
+    width: auto;
+    margin: auto;
+  }
+  .connaction,
+  .nav-item,
+  .nav-button{
+    display: none;
+  }
+  .burger-img{
+    display: flex;
+    
+    
+    
+  }
+  .header {
+    width: auto;
+    height: 70vh;
+    
+    
+  }
+  .nav-header{
+    display: none;
+    
+  }
+  .nav-header-2{
+    display: block;
+    text-align: center;
+  }
+  
+  .nav-header-2 h3 {
+    font-size: 30px;
+    color: #ff7400;
+    
+  }
+  .nav-header-2 h1{
+    font-size: 40px;
+    color: #ff7400;
+  }
+  .nav-header-2 .font-18px {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+  }
+  .imgheader {
+    display: none;
+  }
+  .card-1 .row {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    
+  }
+  .card-1 .card {
+    margin-top: -40px;
+    margin-bottom:50px ;
+  }
+  .business-lunch {
+    width: auto;
+    text-align: center;
+    font-size: 26px;
+
+  }
+  .business-lunch .row {
+    display: block;
+    
+    
+  }
+  .lunch-button{
+    padding-bottom: 15px;
+  }
+  .business-lunch .lunch-price{
+    font-size: 18px;
+    
+  }
+  .lunch-text h3{
+    font-size: 36px;
+    padding-top: 20px;
+  }
+  .history-text {
+    padding-bottom: 20px;
+    padding-top: 20px;
+   
+    
+    
+
+  }
+  .main-history-img{
+    width: auto;
+  }
+  .history-number{
+    padding-bottom: 20px;
+    display: block;
+    margin: 0 auto;
+  }
+  .menu{
+    width: auto;
+    margin: 0 auto;
+  }
+  .burgers {
+    display: block;
+    width: auto;
+    margin: 0 auto;
+  }
+  .pizza-img {
+    margin-left: 100px;
+  }
+  .menu-mini {
+    margin: 10px 80px;
+  }
+  .hamburger-3,
+  .hamburger-2,
+  .hamburger-1 {
+    display: none;
+  }
+  .hamburger-4{
+    display: block;
+    margin: 0 auto;
+     margin-bottom: 20px;
+    width: 400px;
+
+  }
+  .menu-dishes {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .coment-text{
+   font-size: 16px;
+   align-items: center;
+   padding: 60px;
+   margin: 0;
+   
+  }
+  
+  .gallery img {
+    display: block;
+    width: 300px;
+    
+  }
+  
+  .gallery .coffe-2 {
+    display: none;
+  }
+  .chefs .img-chef{
+    display: block;
+    width: auto;
+    padding: 0 30px;
+    
+  }
+  .footer-img {
+    width: auto;
+    object-fit: contain;
+  }
+  .ch{
+    display: none;
+  }
+}
