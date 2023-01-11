@@ -562,6 +562,21 @@ nav a {
     margin-left: 110px;
     width: 320px;
   }
+  .menu-dishes {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .coment-text {
+    width: 800px;
+  }
+  .gallery .row {
+    display: block;
+  }
+  .gallery img {
+    width: 400px;
+    height: 300px;
+    margin-left: 300px;
+  }
 
   
 }
