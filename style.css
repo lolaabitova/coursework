@@ -663,5 +663,45 @@ nav a {
     .pizza-img {
       margin-left: 100px;
     }
+    .menu-mini {
+      margin-top: 20px;
+    }
+    .hamburger-3 {
+      display: none;
+    }
+    .card-hamburger {
+      margin: auto;
+      margin-bottom: 20px;
+      margin-left: 20px;
+      width: 320px;
+    }
+    .menu-dishes {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    .coment-text {
+      width: 800px;
+    }
+    .gallery .row {
+      display: block;
+      
+    }
+    .gallery img {
+      width: 400px;
+      height: 300px;
+      margin-left: 270px;
+      
+      
+    }
+    .gallery .coffe-2 {
+      display: none;
+    }
+    .img-chef {
+      display: block;
+      width: 300px;
+      margin: auto;
+    }
+    .footer-img {
+      width: 100%;
 
 }
