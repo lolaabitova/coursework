@@ -727,4 +727,80 @@ nav a {
     object-fit: cover;
     
   }
+  .nav-header h1 {
+    font-size: 46px;
+    margin: auto;
+  }
+  .nav-header .font-18px {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+  }
+  .imgheader {
+    display: none;
+  }
+  .card-1 .row {
+    display: block;
+    width: 400px;
+    
+    
+
+    margin: 0px auto;
+  }
+  .card-1 .card {
+    margin-top: -40px;
+    margin-bottom:70px ;
+  }
+  .business-lunch {
+    width: auto;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 25px;
+
+  }
+  .business-lunch .row {
+    display: block;
+    
+    
+  }
+  .lunch-button{
+    padding-bottom: 15px;
+    
+  }
+  .button{
+    padding: 20px 25px;
+    font-size: 14px;
+  }
+  .business-lunch .lunch-price{
+    font-size: 32px;
+    
+  }
+  .main-history{
+    margin-top: -100px;
+  }
+  .history-text{
+    padding-bottom: 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    }
+  .history-number{
+    padding-bottom: 20px;
+  }
+  .burgers {
+    display: block;
+    width: 700px;
+    margin: auto;
+  }
+  .pizza-img {
+    margin-left: 100px;
+  }
+  .menu-mini {
+    margin-top: 20px;
+  }
+  .hamburger-3,
+  .hamburger-2,
+  .hamburger-1 {
+    display: none;
+  }
+
 }
