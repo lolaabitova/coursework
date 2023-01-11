@@ -577,6 +577,9 @@ nav a {
     height: 300px;
     margin-left: 300px;
   }
+  .gallery .coffe-2 {
+    display: none;
+  }
 
   
 }
