@@ -644,6 +644,24 @@ nav a {
     }
   
     
-    
+    .business-lunch .lunch-price{
+      font-size: 32px;
+      
+    }
+    .history-text{
+      padding-bottom: 20px;
+      padding-top: 20px;
+    }
+    .history-number{
+      padding-bottom: 20px;
+    }
+    .burgers {
+      display: block;
+      width: 700px;
+      margin: auto;
+    }
+    .pizza-img {
+      margin-left: 100px;
+    }
 
 }
