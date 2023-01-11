@@ -529,5 +529,19 @@ nav a {
   .card-1 .card {
     margin-top: 40px;
   }
+  .business-lunch {
+    width: auto;
+  }
+  .business-lunch .row {
+    margin-left: 30px;
+  }
+  .burgers {
+    display: block;
+    width: 700px;
+    margin: auto;
+  }
+  .pizza-img {
+    margin-left: 100px;
+  }
   
 }
