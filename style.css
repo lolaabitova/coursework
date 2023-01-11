@@ -589,3 +589,14 @@ nav a {
     width: 100%;
   }
 }
+@media screen and (min-width: 850px) and (max-width: 1000px) {
+  .container {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .connaction,
+  .nav-item,
+  .nav-button{
+    display: none;
+  }
+}
