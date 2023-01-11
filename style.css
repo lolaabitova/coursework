@@ -543,5 +543,16 @@ nav a {
   .pizza-img {
     margin-left: 100px;
   }
+  .menu-mini {
+    margin-top: 20px;
+  }
+  .history-text{
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .history-number{
+    padding-bottom: 20px;
+  }
+
   
 }
