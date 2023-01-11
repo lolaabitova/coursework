@@ -13,10 +13,10 @@ body {
 [class^="col"] {
   padding: 0 5px;
 }
-.burger-img{
+.burger-img {
   display: none;
 }
-.nav-header-2{
+.nav-header-2 {
   display: none;
 }
 .row {
@@ -329,7 +329,7 @@ nav a {
   left: 90px;
   top: -85px;
 }
-.hamburger-4{
+.hamburger-4 {
   display: none;
 }
 .lunch-text {
@@ -546,18 +546,17 @@ nav a {
   .menu-mini {
     margin-top: 20px;
   }
-  .history-text{
+  .history-text {
     padding-bottom: 20px;
     padding-top: 20px;
   }
-  .history-number{
+  .history-number {
     padding-bottom: 20px;
   }
   .hamburger-3 {
     display: none;
   }
   .card-hamburger {
-    
     margin-bottom: 20px;
     margin-left: 110px;
     width: 320px;
@@ -590,4 +589,3 @@ nav a {
     width: 100%;
   }
 }
-
